@@ -38,6 +38,7 @@ body {
     line-height: 1;
     font-size: 16px;
     color: #000;
+    font-family: Montserrat;
 }
 
 .wrapper {
@@ -45,9 +46,10 @@ body {
     overflow: hidden;
 }
 
-.container {
+._container {
     max-width: 1050px;
     margin: 0px auto;
 }
 
 /* стили */
+
